@@ -16,9 +16,7 @@ public class PostRepository {
     }
 
     public Post findById(Long id) {
-        for (Post All_POSTS : Post.id;) {
-            return Post;
-        }
+
         return null;
     }
 
